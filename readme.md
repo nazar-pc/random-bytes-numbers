@@ -1,4 +1,4 @@
-# Random bytes and numbers
+# Random bytes and numbers [![Travis CI](https://img.shields.io/travis/nazar-pc/random-bytes-numbers/master.svg?label=Travis%20CI)](https://travis-ci.org/nazar-pc/random-bytes-numbers)
 Generate random bytes and numbers in Node.js and modern browsers with security in mind.
 
 This small set of functions takes security serious and applies workarounds for JavaScript-specific quirks.
