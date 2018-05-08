@@ -22,11 +22,6 @@ requirejs(['random-bytes-numbers'], function (random_bytes_numbers) {
 })
 ```
 
-## List of exported functions
-* `random_bytes()`
-* `random_int()`
-* `random()`
-
 ## API
 ### random_bytes_numbers.random_bytes(size : number) : Uint8Array
 Generate random bytes of specified size.
